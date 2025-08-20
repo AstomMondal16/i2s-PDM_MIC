@@ -1,0 +1,16 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/home/astom/esp/v5.0.2/esp-idf",
+    "idf.pythonInstallPath": "/usr/bin/python3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.port": "/dev/ttyACM1",
+    "idf.toolsPath": "/home/astom/.espressif",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/home/astom/.espressif/tools/openocd-esp32/v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/home/astom/.espressif/tools/esp-rom-elfs/20230320/",
+        "IDF_TARGET": "esp32s3"
+    },
+    "idf.flashType": "UART"
+}
