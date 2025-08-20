@@ -13,8 +13,9 @@ Below is short explanation of remaining files in the project folder.
 ├── components
 │   ├── CMakeLists.txt
 │   ├── include
-│       ├── format_wav.h
-│       └── pdm_mic.h
+│   │   ├── format_wav.h
+│   │   └── pdm_mic.h
+│   └── pdm_mic.c
 ├── main
 │   ├── CMakeLists.txt
 │   └── main.c
