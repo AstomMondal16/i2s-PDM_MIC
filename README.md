@@ -10,6 +10,11 @@ Below is short explanation of remaining files in the project folder.
 
 ```
 ├── CMakeLists.txt
+├── components
+│   ├── CMakeLists.txt
+│   ├── include
+│       ├── format_wav.h
+│       └── pdm_mic.h
 ├── main
 │   ├── CMakeLists.txt
 │   └── main.c
